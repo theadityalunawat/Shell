@@ -1,0 +1,14 @@
+Shell name: My_Shell : Here write your commands
+bash prompt:~$ ./a.out to execute command
+My_Shell:/home/user$ ls to list files
+shell.cpp main.cpp a.out 
+My_Shell:/home/user$ fdre
+My_Shell: fdre: No command found
+My_Shell:/home/hulk$ exit
+Bye...
+bash prompt:~$
+
+
+To run the code 
+Compile all the cpp files using g++ or gcc compiler
+And now finally run the main object file.
